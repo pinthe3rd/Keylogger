@@ -8,7 +8,8 @@ How to Use :
 3. Good luck.
 
 Example :
-![image](https://github.com/pinthe3rd/Keylogger/assets/145782149/eb038861-4948-4241-b235-5f485b55a94c)
+![image](https://github.com/pinthe3rd/Keylogger/assets/145782149/85029e66-b008-4780-ab00-fddc79ee15d2)
+
 
 
 For Educational Purposes Only❗❗❗
